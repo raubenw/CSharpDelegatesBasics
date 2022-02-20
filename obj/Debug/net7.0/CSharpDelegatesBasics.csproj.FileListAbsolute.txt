@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\bin\Debug\net7.0\CSharpDelegatesBasics.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\bin\Debug\net7.0\CSharpDelegatesBasics.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\bin\Debug\net7.0\CSharpDelegatesBasics.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\bin\Debug\net7.0\CSharpDelegatesBasics.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\bin\Debug\net7.0\CSharpDelegatesBasics.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\refint\CSharpDelegatesBasics.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\CSharpDelegatesBasics.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpDelegatesBasics\obj\Debug\net7.0\ref\CSharpDelegatesBasics.dll
